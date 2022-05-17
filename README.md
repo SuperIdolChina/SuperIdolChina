@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ethan
+- 👀 I’m interested in machine learning, code competitions, making games
+- 🌱 I’m currently learning game developement on unity
